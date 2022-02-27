@@ -9,10 +9,11 @@ featured_image: /images/demo/about.jpg
 
 Will need the following:
 
-* Minimal design
+* Minimal design - desktop, laptop, and moblie
 * Portfolio post type
 * Blog with pagination
 * Contact form 
 * Social media icons
+
 
 
