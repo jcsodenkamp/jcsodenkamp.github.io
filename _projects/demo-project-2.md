@@ -10,10 +10,8 @@ featured_image: '/images/demo/website-cover.jpg'
 ![](/images/demo/website-cover.jpg)
 
 ---
-I created [Off-Grid Living](https://www.facebook.com/groups/offgridliving.scheney) Facebook Community Group! This is a private group where people who want to transition into a off-grid lifestyle can learn, ask questions, discuss and get valuable content about how to reduce your carbon footprint and become self-sufficient with simple living.
----
 
-## Book Description
+## Here is the Book Description
 
 <h2>Have you ever wondered what it would be like to truly unplug and live off the grid?</h2>
 I’m not talking about turning your social media off for a couple of days.<br>
