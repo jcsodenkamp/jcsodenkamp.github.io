@@ -33,7 +33,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'facebook.com/jason.sodenkamp/'
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''
