@@ -6,7 +6,7 @@ description: This is a demo
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![](/images/demo/demo-website-cover.jpg)
+![](/images/demo/website-cover.jpg)
 
 ## Demo content
 
