@@ -25,8 +25,3 @@ We've packed Personal full of powerful features to help showcase your work:
 * Works with GitHub Pages
 * Updated and supported by the developers
 
-## Get Personal
-
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
