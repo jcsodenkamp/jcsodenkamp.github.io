@@ -1,4 +1,4 @@
-itle: 'Under Construction'
+title: 'Under Construction'
 subtitle: 'Future Development' 
 date: 2018-06-30 00:00:00
 description: This page will should links to a my software development portfolio and or projects .
