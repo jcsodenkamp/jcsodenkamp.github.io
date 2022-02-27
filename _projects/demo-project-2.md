@@ -33,23 +33,6 @@ And much, much more! <br>
 Take all of the advice you find in this book, and I guarantee you will have a much smoother transition off the grid.<br>
 <strong>Grab a copy of <em>Off the Grid</em> today, and make that change you have always dreamed about!</strong>
 
-
-
 ---
-
-### Front and Back Cover
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
 
 <a href="https://www.amazon.com/dp/B09NZNRPBN" class="button button--large">Get This Book</a>
