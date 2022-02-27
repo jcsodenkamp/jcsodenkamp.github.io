@@ -12,8 +12,7 @@ Will need the following:
 * Minimal design
 * Portfolio post type
 * Blog with pagination
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
+* Contact form 
 * Social media icons
 
 
