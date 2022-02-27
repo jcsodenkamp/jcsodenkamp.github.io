@@ -2,14 +2,14 @@
 title: 'Off The Grid'
 subtitle: 'A Starter Guide to Becoming Self-Sufficient Through Simple Living'
 date: 2021-12-20 00:00:00
-description: This is a demo
+description: "Going back to a simpler life is not a step backward" - Yvon Chouinard
 featured_image: '/images/demo/website-cover.jpg'
 ---
 
 ![](/images/demo/website-cover.jpg)
 
 ---
-## Demo content
+## Book Description
 
 <h2>Have you ever wondered what it would be like to truly unplug and live off the grid?</h2>
 I’m not talking about turning your social media off for a couple of days.<br>
@@ -32,7 +32,7 @@ Inside <em>Off the Grid</em>, discover:<br>
 And much, much more! <br>
 Take all of the advice you find in this book, and I guarantee you will have a much smoother transition off the grid.<br>
 <strong>Grab a copy of <em>Off the Grid</em> today, and make that change you have always dreamed about!</strong>
-![image](https://user-images.githubusercontent.com/97320287/155877498-6da10f03-40c1-4a58-91a7-2c98ebb5f88a.png)
+
 
 
 ---
