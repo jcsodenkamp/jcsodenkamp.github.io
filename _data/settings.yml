@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: Just trying to figure out this website stuff.
 
 hero_settings:
   overlay_opacity: 0.8
@@ -33,7 +33,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://www.facebook.com/jason.sodenkamp'
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''
