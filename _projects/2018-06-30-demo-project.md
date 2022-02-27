@@ -1,8 +1,8 @@
-title: 'Under Construction'
-subtitle: 'Future Development' 
-date: 2018-06-30 00:00:00
-description: This page will should links to a my software development portfolio and or projects .
-featured_image: '/images/demo/Under-C.png'
 ---
+title: 'Off The Grid'
+subtitle: 'A Starter Guide to Becoming Self-Sufficient Through Simple Living'
+date: 2021-12-20 00:00:00
+description: Going back to a simpler life is not a step backward - Yvon Chouinard
 
-![](/images/demo/Under-C-Main.png
+featured_image: '/images/demo/C-Main.png'
+---
