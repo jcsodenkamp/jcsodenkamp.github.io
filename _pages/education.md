@@ -2,7 +2,7 @@
 title: Education
 subtitle: 
 description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/jason-sodekamp.mp4
+featured_image: /images/demo/post-U.jpeg
 ---
 
 ## Post university
