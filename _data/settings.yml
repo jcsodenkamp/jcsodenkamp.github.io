@@ -16,8 +16,6 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
-    - title: 'Test'
-      url: '/Test'
 
 footer_settings:
   footer_tagline: Just trying to figure out this website stuff.
@@ -37,7 +35,7 @@ contact_settings:
 social_settings:
   facebook_url: 'https://www.facebook.com/jason.sodenkamp'
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/gijojo27/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
