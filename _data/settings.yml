@@ -16,7 +16,7 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
-      - title: 'Test'
+    - title: 'Test'
       url: '/Test'
 
 footer_settings:
