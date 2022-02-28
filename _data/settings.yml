@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Jason Sodenkamp
+  site_title: Portfolio
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -16,6 +16,8 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+      - title: 'Test'
+      url: '/Test'
 
 footer_settings:
   footer_tagline: Just trying to figure out this website stuff.
