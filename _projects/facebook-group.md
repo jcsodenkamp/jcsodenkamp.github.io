@@ -16,7 +16,7 @@ Off-Grid Living is a private group where people who want to transition into a of
 
 ## Want to become a member?
 
-<a href="https://www.facebook.com/groups/offgridliving.scheney" class="button button--large">Join Group</a>
+<a href="https://www.facebook.com/groups/offgridliving.scheney" class="button button--large">See Group</a>
 
 ---
 
