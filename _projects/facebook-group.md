@@ -2,7 +2,7 @@
 title: 'Off-Grid Living'
 subtitle: 'Returning to the Land'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Sometimes you just need to go off the grid and get your soul right.
 featured_image: '/images/demo/off-the-grid.png'
 ---
 
