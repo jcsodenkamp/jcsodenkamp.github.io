@@ -16,6 +16,8 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+    - title: 'Education'
+      url: '/education'
 
 footer_settings:
   footer_tagline: Just trying to figure out this website stuff.
