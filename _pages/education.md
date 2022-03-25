@@ -14,3 +14,7 @@ Grade: 3.5 GPA
 ## Post University
 
 Currently working on 2nd Bachelor's degree in Computer Information Systems 
+
+## nucamp
+
+Currently working to earn a certificaiton in Back End, SQL and DevOps Developer with Python  
