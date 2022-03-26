@@ -5,15 +5,9 @@ description: Personal is the perfect theme for developers, designers and other c
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
+## Bio
 
-Will need the following:
 
-* Minimal design - desktop, laptop, and moblie
-* Portfolio post type
-* Blog with pagination
-* Contact form 
-* Social media icons
 
 
 
