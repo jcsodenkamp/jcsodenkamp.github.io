@@ -10,8 +10,8 @@ featured_image: '/images/demo/coding.jpg'
 ## Matching Game
 Need to add text
 <div class="gallery" data-colums="1">
-        <img src="/images/demo/demo-landscape.jpg">
-        <img src="/images/demo/demo-landscape-2.jpg">
+        <img src="/images/demo/matching-game1.jpg">
+        <img src="/images/demo/matching-game2.jpg">
 </div>        
  
 ## Play Game
