@@ -13,9 +13,8 @@ Need to add text
         <img src="/images/demo/matching-game1.jpg">
         <img src="/images/demo/matching-game2.jpg">
 </div>        
- 
-## Play Game
-<a href="https://jcsodenkamp.github.io/matching-game/" class="button button--large">Matching Game</a>
+
+<a href="https://jcsodenkamp.github.io/matching-game/" class="button button--large">Click here to play: Matching Game</a>
 
  
  
