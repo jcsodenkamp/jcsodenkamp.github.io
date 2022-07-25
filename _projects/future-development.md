@@ -8,7 +8,7 @@ featured_image: '/images/demo/coding.jpg'
 
 
 ## Matching Game
-Need to add text
+Need to add text about game
 <div class="gallery" data-colums="1">
         <img src="/images/demo/matching-game1.png">
         <img src="/images/demo/matching-game2.png">
@@ -16,5 +16,11 @@ Need to add text
 
 <a href="https://jcsodenkamp.github.io/matching-game/" class="button button--large">Click here to play: Matching Game</a>
 
- 
- 
+## Color Guessing Game
+Need to add text (about game)
+<div class="gallery" data-colums="1">
+        <img src="/images/demo/color-game1.png">
+        <img src="/images/demo/color-game2.png">
+</div>        
+
+<a href="https://jcsodenkamp.github.io/color-guessing-game/" class="button button--large">Click here to play: Color Guessing Game</a> 
