@@ -1,6 +1,6 @@
 ---
-title: 'Simple Games'
-subtitle: 'Games using HTML/CSS/JavaScript'
+title: 'Projects'
+subtitle: 'HTML/CSS/JavaScript'
 date: 2022-02-27 00:00:00
 description: This will show software development projects
 featured_image: '/images/demo/coding.jpg'
