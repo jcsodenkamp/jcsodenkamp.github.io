@@ -8,7 +8,7 @@ featured_image: '/images/demo/coding.jpg'
 
 
 ## Matching Game
-Need to add text about game
+Need to add text (about game)
 <div class="gallery" data-colums="1">
         <img src="/images/demo/matching-game1.png">
         <img src="/images/demo/matching-game2.png">
