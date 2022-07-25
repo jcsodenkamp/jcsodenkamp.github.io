@@ -29,7 +29,7 @@ Need to add text (about game)
 Need to add text (about project)
 <div class="gallery" data-colums="1">
         <img src="/images/demo/profile-page1.png">
-        <img src="/images/demo/profile-page2.png"
+        <img src="/images/demo/profile-page2.png">
 </div>        
 
 <a href="https://jcsodenkamp.github.io/my-very-frist-html-page/" class="button button--large">Click here to view page</a> 
