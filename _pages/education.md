@@ -16,6 +16,11 @@ Currently working on 2nd Bachelor's degree in Computer Information Systems
 ## nucamp
 
 Earned a certificate in Back End, SQL and DevOps Developer with Python  
+<div class="gallery" data-colums="1">
+        <img src="/images/demo/python.png">
+</div>    
 
 Earned a certificate in Web Development Fundamentals  
-
+<div class="gallery" data-colums="1">
+        <img src="/images/demo/web-development.png">
+</div>    
