@@ -23,6 +23,13 @@ Need to add text (about game)
 
 <a href="https://jcsodenkamp.github.io/matching-game/" class="button button--large">Click to view: Matching Game</a>
 
+## Battle Bot Game
+Need to add text (about game)
+<div class="gallery" data-colums="1">
+        <img src="/images/demo/battle-bot1.png">
+</div>  
+<a href="https://jcsodenkamp.github.io/battle-bot/" class="button button--large">Click to view: Matching Game</a>
+
 ## Color Guessing Game
 Need to add text (about game)
 <div class="gallery" data-colums="1">
