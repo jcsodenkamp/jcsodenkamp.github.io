@@ -5,14 +5,14 @@ date: 2022-02-27 00:00:00
 description: This will show software development projects
 featured_image: '/images/demo/coding.jpg'
 ---
-<!-- ## Magic 8 Ball
+## Encrypt and Decrypt Text
 Need to add text (about this app)
 <div class="gallery" data-colums="1">
-        <img src="/images/demo/8-ball-1.png">
-        <img src="/images/demo/8-ball-2.png">
+        <img src="/images/demo/encrypt_decrypt1.png">
+        <img src="/images/demo/encrypt_decrypt1.png">
 </div>        
 
-<a href="https://jcsodenkamp.github.io/magic-8-ball/" class="button button--large">Click to view: Magic 8 Ball</a> -->
+<a href="https://jcsodenkamp.github.io/encrypt_decrypt/" class="button button--large">Click to type this application</a>
 
 ## Matching Game
 Need to add text (about game)
