@@ -5,6 +5,19 @@ date: 2022-02-27 00:00:00
 description: This will show software development projects
 featured_image: '/images/demo/coding.jpg'
 ---
+
+## Sample Web Page (Front-End Only)
+Need to add text (about this app)
+<div class="gallery" data-colums="1">
+        <img src="/images/demo/samplewebpage.png">
+        
+</div>        
+
+<a href="https://jcsodenkamp.github.io/photo-page/" class="button button--large">Click to view sample page</a>
+
+
+
+
 ## Encrypt and Decrypt Text
 Need to add text (about this app)
 <div class="gallery" data-colums="1">
