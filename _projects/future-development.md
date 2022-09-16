@@ -9,7 +9,7 @@ featured_image: '/images/demo/coding.jpg'
 Need to add text (about this app)
 <div class="gallery" data-colums="1">
         <img src="/images/demo/encrypt_decrypt1.png">
-        <img src="/images/demo/encrypt_decrypt1.png">
+        <img src="/images/demo/encrypt_decrypt2.png">
 </div>        
 
 <a href="https://jcsodenkamp.github.io/encrypt_decrypt/" class="button button--large">Click to type this application</a>
