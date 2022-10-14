@@ -3,7 +3,7 @@ title: 'Future Blog Post'
 subtitle: 'Under Construction' 
 date: 2022-02-27 00:00:00
 description: This page will show links to a blog post.
-featured_image: '/images/demo/sierra-journey.png'
+featured_image: '/images/demo/sierra.png'
 ---
 
 
