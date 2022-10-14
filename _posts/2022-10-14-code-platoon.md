@@ -1,8 +1,8 @@
 ---
-title: 'Future Blog Post'
-subtitle: 'Under Construction' 
+title: 'What it's like to attend Code Platoom'
+subtitle: 'A student's journey with Sierra Platoon' 
 date: 2022-02-27 00:00:00
-description: This page will show links to a blog post.
+description: This page will show videos.
 featured_image: '/images/demo/sierra.png'
 ---
 
