@@ -1,7 +1,7 @@
 ---
 title: 'What it's like to attend Code Platoon'
 subtitle: 'A student's journey with Sierra Platoon' 
-date: 2022-02-27 00:00:00
+date: 2022-10-16 00:00:00
 description: This page show videos.
 featured_image: '/images/demo/new-post.png'
 ---
