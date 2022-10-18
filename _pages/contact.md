@@ -1,7 +1,7 @@
 ---
 title: Contact
 subtitle: 
-description: Personal is the perfect theme for developers, designers and other creatives.
+description: 
 featured_image: /images/demo/contact.jpg
 ---
 
