@@ -6,68 +6,50 @@ description: French Bulldog puppies are incredibly playful and social creatures.
 featured_image: '/images/demo/puppy2.png'
 ---
 
-## Sample Web Page (Front-End Only)
-Need to add text (about this app)
-<div class="gallery" data-colums="1">
-        <img src="/images/demo/samplewebpage.png">
-        
-</div>        
-
-<a href="https://jcsodenkamp.github.io/photo-page/" class="button button--large">Click to view sample page</a>
+![](/images/demo/stud.png)
 
 
+<h1>Name: Vennie </h1>
+<h2>DNA: a/a d/d Co/co B/B Ky/Ky E/E N/N m/m L/L </h2>
+<h2>Price: $3,000</h2>
+<h2>Stauts: Pending</h2>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+tenetur error, harum nesciunt ipsum debitis quas aliquid.
+
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+        <img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+---
+
+![](/images/demo/stud.png)
 
 
-## Encrypt and Decrypt Text
-Need to add text (about this app)
-<div class="gallery" data-colums="1">
-        <img src="/images/demo/encrypt_decrypt1.png">
-        <img src="/images/demo/encrypt_decrypt2.png">
-</div>        
+<h1>Name: Vennie </h1>
+<h2>DNA: a/a d/d Co/co B/B Ky/Ky E/E N/N m/m L/L </h2>
+<h2>Price: $3,000</h2>
+<h2>Stauts: Available</h2>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+tenetur error, harum nesciunt ipsum debitis quas aliquid.
 
-<a href="https://jcsodenkamp.github.io/encrypt_decrypt/" class="button button--large">Click to type this application</a>
-
-## Matching Game
-Need to add text (about game)
-<div class="gallery" data-colums="1">
-        <img src="/images/demo/matching-game1.png">
-        <img src="/images/demo/matching-game2.png">
-</div>        
-
-<a href="https://jcsodenkamp.github.io/matching-game/" class="button button--large">Click to view: Matching Game</a>
-
-## Battle Bot Game
-Need to add text (about game)
-<div class="gallery" data-colums="1">
-        <img src="/images/demo/battle-bot1.png">
-</div>  
-<a href="https://jcsodenkamp.github.io/battle-bot/" class="button button--large">Click to view: Battle Bot</a>
-
-## Color Guessing Game
-Need to add text (about game)
-<div class="gallery" data-colums="1">
-        <img src="/images/demo/color-game1.png">
-        <img src="/images/demo/color-game2.png">
-</div>        
-
-<a href="https://jcsodenkamp.github.io/color-guessing-game/" class="button button--large">Click to view: Color Guessing Game</a> 
-
-## Dating Website App
-Need to add text (about app)
-<div class="gallery" data-colums="1">
-        <img src="/images/demo/dating-app1.png">
-        <img src="/images/demo/dating-app2.png">
-</div>        
-
-<a href="https://jcsodenkamp.github.io/basic-dating-website/" class="button button--large">Click to view page</a> 
-
-## My first HTML page
-Need to add text (about project)
-<div class="gallery" data-colums="1">
-        <img src="/images/demo/profile-page1.png">
-        <img src="/images/demo/profile-page2.png">
-</div>        
-
-<a href="https://jcsodenkamp.github.io/my-very-frist-html-page/" class="button button--large">Click to view page</a> 
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+        <img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+---
 
 
