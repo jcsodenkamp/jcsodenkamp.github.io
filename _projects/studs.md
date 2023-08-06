@@ -38,3 +38,5 @@ Take all of the advice you find in this book, and I guarantee you will have a mu
 ---
 
 <a href="https://www.amazon.com/dp/B09NZNRPBN" class="button button--large">Get This Book</a>
+
+![](/images/demo/stud.png)
