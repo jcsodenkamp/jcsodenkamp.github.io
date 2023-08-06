@@ -1,8 +1,8 @@
 ---
 title: 'Studs'
-subtitle: 'A Starter Guide'
+subtitle: 'French Bulldog Stud Service
 date: 2021-12-20 00:00:00
-description: Independently Published Book
+description: If you're seeking an ethical breeder for French Bulldogs, you've come to the right destination. We take immense pride in our exceptional French Bulldogs known for their robust health, impressive lineage, and striking appearance. Your journey to responsible and rewarding breeding begins here!
 
 featured_image: '/images/demo/stud.png'
 ---
