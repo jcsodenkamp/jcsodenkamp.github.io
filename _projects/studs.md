@@ -24,6 +24,8 @@ tenetur error, harum nesciunt ipsum debitis quas aliquid.
 <div class="gallery" data-columns="1">
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
+        <img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 ---
 
@@ -43,6 +45,8 @@ tenetur error, harum nesciunt ipsum debitis quas aliquid.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+        <img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 ---
