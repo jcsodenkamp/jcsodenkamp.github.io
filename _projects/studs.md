@@ -13,6 +13,7 @@ featured_image: '/images/demo/stud.png'
 
 <h1>Name: Vennie </h1>
 <h2>DNA: a/a d/d Co/co B/B Ky/Ky E/E N/N m/m L/L </h2>
+<h2>Stud Fee: $3,000</h2>
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
 molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
 numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
@@ -28,6 +29,7 @@ tenetur error, harum nesciunt ipsum debitis quas aliquid.
 
 <h1>Name: Vennie </h1>
 <h2>DNA: a/a d/d Co/co B/B Ky/Ky E/E N/N m/m L/L </h2>
+<h2>Stud Fee: $3,000</h2>
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
 molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
 numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
