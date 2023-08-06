@@ -1,13 +1,13 @@
 ---
-title: 'Off The Grid'
+title: 'Stud's'
 subtitle: 'A Starter Guide to Becoming Self-Sufficient Through Simple Living'
 date: 2021-12-20 00:00:00
 description: Independently Published Book
 
-featured_image: '/images/demo/website-cover.jpg'
+featured_image: '/images/demo/stud.png'
 ---
 
-![](/images/demo/website-cover.jpg)
+![](/images/demo/stud.png)
 
 ---
 
