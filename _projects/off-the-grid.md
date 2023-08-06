@@ -1,6 +1,6 @@
 ---
-title: 'Stud's'
-subtitle: 'A Starter Guide to Becoming Self-Sufficient Through Simple Living'
+title: 'Studs'
+subtitle: 'A Starter Guide'
 date: 2021-12-20 00:00:00
 description: Independently Published Book
 
