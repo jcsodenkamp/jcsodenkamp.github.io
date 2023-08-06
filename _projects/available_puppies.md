@@ -1,8 +1,8 @@
 ---
 title: 'Available Puppies'
-subtitle: 'HTML/CSS/JavaScript'
+subtitle: 'Puppies can go home at 8-10 weeks old'
 date: 2022-02-27 00:00:00
-description: This will show software development projects
+description: French Bulldog puppies are incredibly playful and social creatures. They love human interaction and often form strong bonds with their owners. Despite their small size, they have a lot of energy and enjoy engaging in playful antics, making them a joy to be around. Just be prepared for lots of cuddles and moments of puppy silliness!
 featured_image: '/images/demo/puppy.png'
 ---
 
