@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: '{% include socials.html %}'
+subtitle: 
 description: 
 featured_image: /images/demo/contact.jpg
 ---
