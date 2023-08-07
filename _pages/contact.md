@@ -15,3 +15,6 @@ featured_image: /images/demo/contact.jpg
 {% include contact-form.html %}
 
 ---
+	
+<h1 style="text-align: center;">Frequently asked questions</h1>
+<br>
