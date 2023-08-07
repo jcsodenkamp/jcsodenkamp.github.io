@@ -1,5 +1,5 @@
 ---
-title: 'Other Services'
+title: 'Other Services
 subtitle: ''
 date: 2018-06-30 00:00:00
 description: .
@@ -8,21 +8,64 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 
 ![](/images/demo/facebook-community-group.png)
 
-## About this group
-
-Off-Grid Living is a private group where people who want to transition into a off-grid lifestyle can learn, ask questions, discuss and get valuable content about how to reduce their carbon footprint and become self-sufficient with simple living.
-
----
-
-## Want to become a member?
-
-<a href="https://www.facebook.com/groups/offgridliving.scheney" class="button button--large">See Group</a>
-
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+## FEE'S
+| Item                 |  Price |
+|----------------------|--------|
+| After-Hours Fee      |  $49   |
+| After-Hours Moblie   |  $49   |
+| Mobile Service Fee   |  $49   |
 ---
 
 <div class="gallery" data-columns="1">
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
-
+## Reproduction
+| Item                 |  Price |
+|----------------------|--------|
+| After-Hours Fee      |  $49   |
+| After-Hours Moblie   |  $49   |
+| Mobile Service Fee   |  $49   |
 ---
+
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+## Testing
+| Item                 |  Price |
+|----------------------|--------|
+| After-Hours Fee      |  $49   |
+| After-Hours Moblie   |  $49   |
+| Mobile Service Fee   |  $49   |
+---
+
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+## Wellness and Care
+| Item                 |  Price |
+|----------------------|--------|
+| After-Hours Fee      |  $49   |
+| After-Hours Moblie   |  $49   |
+| Mobile Service Fee   |  $49   |
+---
+
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+## Vaccination & Deworming
+| Item                 |  Price |
+|----------------------|--------|
+| After-Hours Fee      |  $49   |
+| After-Hours Moblie   |  $49   |
+| Mobile Service Fee   |  $49   |
+
+
+
