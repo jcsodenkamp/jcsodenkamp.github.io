@@ -13,3 +13,5 @@ featured_image: /images/demo/contact.jpg
 
 <p>Or send us a message</p>
 {% include contact-form.html %}
+
+---
