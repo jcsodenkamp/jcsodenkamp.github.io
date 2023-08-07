@@ -14,6 +14,7 @@ featured_image: '/images/demo/stud.png'
 <h2>DNA: a/a d/d Co/co B/B Ky/Ky E/E N/N m/m L/L </h2>
 <h2>Stud Fee: $3,000</h2>
 <a href="/contact" class="button button--large">Contact Us</a>
+<br>
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
 molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
 numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
@@ -38,6 +39,7 @@ tenetur error, harum nesciunt ipsum debitis quas aliquid.
 <h2>DNA: a/a d/d Co/co B/B Ky/Ky E/E N/N m/m L/L </h2>
 <h2>Stud Fee: $3,000</h2>
 <a href="/contact" class="button button--large">Contact Us</a>
+<br>
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
 molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
 numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
