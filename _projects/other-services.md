@@ -1,17 +1,14 @@
 ---
-title: 'Other Services'
+title: 'Services'
 subtitle: ''
 date: 2018-06-30 00:00:00
-description: .
+description: 
 featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 ---
 
 ![](/images/demo/facebook-community-group.png)
 
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
+
 ## FEES
 * Simple bulleted lists - $49
 * Like this one - 100
@@ -92,11 +89,10 @@ You can also add blockquotes, which are shown at a larger width to help break up
 
 The theme also supports markdown tables:
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+| Item                 | Price  |
+|----------------------|--------|
+| A.I.		       | $50.00 |
+
 
 And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
 
