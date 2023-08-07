@@ -2,7 +2,7 @@
 title: Contact
 subtitle: 
 description: 
-featured_image: /images/demo/contact.jpg
+featured_image: /images/demo/contact.png
 ---
 
 {% include socials.html %}
