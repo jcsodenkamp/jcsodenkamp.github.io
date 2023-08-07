@@ -1,8 +1,8 @@
 ---
-title: 'Off-Grid Living'
-subtitle: 'Returning to the Land'
+title: 'Other Services'
+subtitle: ''
 date: 2018-06-30 00:00:00
-description: I started an Off-Grid Facebook Community .
+description: .
 featured_image: '/images/demo/off-the-grid.png'
 ---
 
