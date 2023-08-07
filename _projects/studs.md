@@ -10,7 +10,7 @@ featured_image: '/images/demo/stud.png'
 ![](/images/demo/stud.png)
 
 
-<h1>Name: Vennie </h1>
+<h1>Name: Vinnie </h1>
 <h2>DNA: a/a d/d Co/co B/B Ky/Ky E/E N/N m/m L/L </h2>
 <h2>Stud Fee: $3,000</h2>
 <a href="/contact" class="button button--large">Contact Us</a>
@@ -35,7 +35,7 @@ tenetur error, harum nesciunt ipsum debitis quas aliquid.
 ![](/images/demo/stud.png)
 
 
-<h1>Name: Vennie </h1>
+<h1>Name: Vinnie </h1>
 <h2>DNA: a/a d/d Co/co B/B Ky/Ky E/E N/N m/m L/L </h2>
 <h2>Stud Fee: $3,000</h2>
 <a href="/contact" class="button button--large">Contact Us</a>
