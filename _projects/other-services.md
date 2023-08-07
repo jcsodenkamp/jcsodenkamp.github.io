@@ -12,7 +12,7 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
-## FEE'S
+## FEES
 | Item                 |  Price |
 |----------------------|--------|
 | After-Hours Fee      |  $49   |
