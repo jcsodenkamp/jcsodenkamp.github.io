@@ -24,8 +24,9 @@ featured_image: /images/demo/contact.jpg
 <div>
 	<details>
 		<summary>
-			What is the procedure for purchasing one or your
-			puppies?
+			<strong>
+				What is the procedure for purchasing one or your puppies? 
+			</strong>
 		</summary>
 		<p>
 			Filling out our application would be the first step to
@@ -40,8 +41,9 @@ featured_image: /images/demo/contact.jpg
 <div>
 	<details>
 		<summary>
-			What is the procedure for purchasing one or your
-			puppies?
+			<strong>
+				What is the procedure for purchasing one or your puppies? 
+			</strong>
 		</summary>
 		<p>
 			Filling out our application would be the first step to
@@ -56,8 +58,9 @@ featured_image: /images/demo/contact.jpg
 <div>
 	<details>
 		<summary>
-			What is the procedure for purchasing one or your
-			puppies?
+			<strong>
+				What is the procedure for purchasing one or your puppies? 
+			</strong>
 		</summary>
 		<p>
 			Filling out our application would be the first step to
