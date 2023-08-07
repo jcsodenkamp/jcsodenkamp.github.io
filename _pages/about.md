@@ -2,10 +2,10 @@
 title: About Us
 subtitle: 
 description: 
-featured_image: /images/demo/about.jpg
+featured_image: /images/demo/about_us.png
 ---
 
-## Bio
+
 
 As someone who enjoys new ventures and taking chances, I have built a wide range of expertise over the years. Through each endeavor I have taken on, I have gained something valuable. From serving my country to software development, my interests are varied but have brought meaning and purpose to my life. Now, I am sharing the wealth of knowledge from my pursuits in hopes of inspiring and educating others.
 
