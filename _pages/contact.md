@@ -7,7 +7,7 @@ featured_image: /images/demo/contact.jpg
 
 {% include socials.html %}
 <h1>Jason Sodenkamp</h1>
-<h2>352-617-3263</h2>
+<h2>Call or text: 352-617-3263</h2>
 
 ---
 
