@@ -14,5 +14,708 @@ featured_image: /images/demo/contact.jpg
 <p>Or send us a message</p>
 {% include contact-form.html %}
 
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+<div class="accordion" id="accordionExample">
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+	    aria-expanded="true" aria-controls="collapseOne">
+	    What is the procedure for purchasing one or your
+	    puppies?
+	</button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    Filling out our application would be the first step to
+	    purchasing a puppy. We place our puppies on a first come
+	    basis and all puppies under 8 weeks require a
+	    non-refundable deposit.
+	</div>
+    </div>
+</div>
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+	    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+	    Why is there an application process in order to
+	    purchase?
+	</button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+	    sed do eiusmod tempor incididunt ut labore et dolore
+	    magna aliqua. Ut enim ad minim veniam, quis nostrud
+	    exercitation ullamco laboris nisi ut aliquip ex ea
+	    commodo consequat. Duis aute irure dolor in
+	    reprehenderit in voluptate velit esse cillum dolore eu
+	    fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+	    non proident, sunt in culpa qui officia deserunt mollit
+	    anim id est laborum.
+	</div>
+    </div>
+</div>
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+	    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+	    How much exercise do frenchies require?
+	</button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    <div>
+		French Bulldogs, like all dogs, require regular
+		exercise to maintain their physical and mental
+		health. However, the amount of exercise they need
+		can vary depending on their age, weight, and overall
+		health.
+	    </div>
+	    <br />
+	    <div>
+		As a general rule, French Bulldogs should get at
+		least 30 minutes of exercise each day. This can be
+		broken up into shorter walks or play sessions
+		throughout the day. It's also important to note that
+		Frenchies are a brachycephalic breed, which means
+		they have a shorter snout and can have difficulty
+		breathing during intense exercise or in hot weather.
+		As such, it's important to monitor them closely and
+		adjust their exercise routine as needed.
+	    </div>
+	    <br />
+	    <div>
+		In addition to regular exercise, French Bulldogs
+		also benefit from mental stimulation, such as
+		training sessions or puzzle toys. This helps keep
+		their minds active and can prevent destructive
+		behavior caused by boredom.
+	    </div>
+	    <br />
+	    <div>
+		Overall, it's important to consult with your
+		veterinarian to determine the appropriate amount and
+		type of exercise for your French Bulldog, as
+		individual needs can vary.
+	    </div>
+	</div>
+    </div>
+</div>
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+	    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+	    What is the average lifespan of a frenchie?
+	</button>
+    </h2>
+    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    <div>
+		The average lifespan of a French Bulldog is
+		typically between 10-12 years. However, this can
+		vary depending on factors such as genetics, overall
+		health, and lifestyle.
+	    </div>
+	    <br />
+	    <div>
+		Some French Bulldogs may live longer than 12 years,
+		while others may have a shorter lifespan due to
+		health issues. It's important to provide proper
+		care, including regular veterinary checkups, a
+		healthy diet, and regular exercise, to help ensure
+		your Frenchie lives a long and healthy life.
+	    </div>
+	    <br />
+	    <div>
+		It's also worth noting that French Bulldogs, like
+		many purebred dogs, can be prone to certain health
+		issues, such as breathing problems, hip dysplasia,
+		and skin allergies. Responsible breeding and
+		proactive health management can help reduce the risk
+		of these issues and promote a longer, healthier life
+		for your furry friend.
+	    </div>
+	</div>
+    </div>
+</div>
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+	    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+	    How long can my frenchie be outside?
+	</button>
+    </h2>
+    <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    <div>
+		The amount of time a French Bulldog can spend
+		outside depends on several factors, including the
+		weather conditions, temperature, and your dog's
+		health and age.
+	    </div>
+	    <br />
+	    <div>
+		French Bulldogs are sensitive to heat and can easily
+		become overheated, especially in warm weather. As a
+		brachycephalic breed, they may have difficulty
+		breathing and regulating their body temperature in
+		hot weather. Therefore, it's important to limit
+		their time outside during the hottest parts of the
+		day, and to provide them with plenty of shade and
+		access to cool, fresh water.
+	    </div>
+	    <br />
+	    <div>
+		Similarly, in very cold weather, it's important to
+		limit the amount of time your French Bulldog spends
+		outside to avoid hypothermia and frostbite.
+	    </div>
+	    <br />
+	    <div>
+		It's also important to consider your Frenchie's age
+		and overall health when determining how long they
+		can stay outside. Puppies and older dogs may be more
+		sensitive to extreme temperatures and require more
+		frequent breaks indoors.
+	    </div>
+	    <br />
+	    <div>
+		In general, it's best to supervise your French
+		Bulldog when they are outside and bring them indoors
+		if they show any signs of discomfort or distress.
+		Remember to always prioritize your dog's safety and
+		well-being.
+	    </div>
+	</div>
+    </div>
+</div>
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+	    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+	    Can french bulldogs swim?
+	</button>
+    </h2>
+    <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    <div>
+		French Bulldogs are not known for their swimming
+		ability and are generally not considered strong
+		swimmers. Their short legs and heavy, muscular build
+		can make it challenging for them to stay afloat, and
+		their short snouts can make it difficult for them to
+		breathe while swimming.
+	    </div>
+	    <br />
+	    <div>
+		That being said, some French Bulldogs can enjoy
+		swimming if introduced to water in a positive and
+		gradual manner. If you want to introduce your
+		Frenchie to swimming, it's important to start slowly
+		in shallow water and use a life vest to ensure their
+		safety. It's also important to supervise them
+		closely and never leave them unsupervised near
+		water.
+	    </div>
+	    <br />
+	    <div>
+		However, not all French Bulldogs will enjoy or excel
+		at swimming, and it's important to respect your
+		dog's individual preferences and abilities. If your
+		Frenchie does not enjoy swimming, there are plenty
+		of other ways to provide them with exercise and
+		mental stimulation.
+	    </div>
+	</div>
+    </div>
+</div>
 
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+	    data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+	    How often should a frenchie be groomed?
+	</button>
+    </h2>
+    <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    <div>
+		French Bulldogs have a short and smooth coat that is
+		relatively low-maintenance compared to some other
+		breeds. However, they still require regular grooming
+		to keep their coat and skin healthy.
+	    </div>
+	    <br />
+	    <div>
+		It's generally recommended to brush your Frenchie's
+		coat at least once a week to remove loose hair,
+		dirt, and debris. This can also help distribute
+		natural oils throughout their coat and promote
+		healthy skin.
+	    </div>
+	    <br />
+	    <div>
+		Baths are typically needed only occasionally, about
+		once every 2-3 months, or as needed if your dog gets
+		particularly dirty or smelly. Over-bathing can strip
+		their coat of natural oils and dry out their skin.
+	    </div>
+	    <br />
+	    <div>
+		In addition to brushing and bathing, it's important
+		to regularly clean your Frenchie's ears, trim their
+		nails, and brush their teeth to maintain their
+		overall hygiene and health. How often these tasks
+		need to be done can vary depending on the individual
+		dog and their lifestyle.
+	    </div>
+	    <br />
+	    <div>
+		If your Frenchie has any skin or coat issues, it's
+		important to consult with your veterinarian to
+		determine the appropriate grooming and care regimen.
+	    </div>
+	    <br />
+	    <div>
+		<strong>
+		    What about long hair french bulldogs?
+		</strong>
+	    </div>
+	    <br />
+	    <div>
+		If you have a long-haired French Bulldog or are
+		considering getting one, it's important to research
+		their specific care needs and consult with a
+		veterinarian or professional groomer for guidance on
+		proper grooming and maintenance. It's also important
+		to ensure that the dog comes from a reputable
+		breeder and is not the result of unethical breeding
+		practices or crossbreeding with other breeds.
+	    </div>
+	</div>
+    </div>
+</div>
 
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+	    data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+	    What is the average size of frenchie?
+	</button>
+    </h2>
+    <div id="collapseEight" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    <div>
+		French Bulldogs are a small breed of dog, with an
+		average height of 11-12 inches (28-30 cm) at the
+		shoulder and an average weight of 16-28 pounds (7-13
+		kg). They have a compact, muscular build with a
+		short and sturdy frame.
+	    </div>
+	    <br />
+	    <div>
+		It's important to note that individual dogs can vary
+		in size, and some Frenchies may be smaller or larger
+		than the average. It's also important to monitor
+		your Frenchie's weight and adjust their diet and
+		exercise as needed to maintain a healthy body
+		condition.
+	    </div>
+	    <br />
+	    <div>
+		Overall, French Bulldogs make great apartment or
+		city dogs due to their small size and low exercise
+		needs. However, they still require daily exercise
+		and mental stimulation to maintain their physical
+		and mental health.
+	    </div>
+	</div>
+    </div>
+</div>
+
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+	    data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+	    How old does the puppy have to be before they can go to
+	    their new home?
+	</button>
+    </h2>
+    <div id="collapseNine" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    <div>
+		In general, it's recommended that puppies stay with
+		their mother and littermates until they are at least
+		8-12 weeks old before going to their new homes.
+		During this time, puppies learn important
+		socialization skills and receive maternal care that
+		helps prepare them for life as a pet.
+	    </div>
+	    <br />
+	    <div>
+		Taking a puppy away from their mother and
+		littermates too early can increase the risk of
+		behavioral and socialization issues later in life.
+		It's also important to ensure that the puppy has
+		received appropriate veterinary care and
+		vaccinations before going to their new home.
+	    </div>
+	    <br />
+	    <div>
+		If you are adopting a French Bulldog puppy, it's
+		important to work with a reputable breeder or rescue
+		organization that prioritizes the health and
+		well-being of their dogs. They should be able to
+		provide you with information on the puppy's care and
+		history, as well as guidance on how to properly care
+		for and socialize your new pet.
+	    </div>
+	</div>
+    </div>
+</div>
+
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+	    data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+	    Are frenchies hard to housetrain?
+	</button>
+    </h2>
+    <div id="collapseTen" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    <div>
+		French Bulldogs can be somewhat difficult to
+		housetrain, especially if they are not properly
+		trained and socialized from a young age. Like many
+		small dog breeds, they may have a smaller bladder
+		capacity and need to go outside more frequently than
+		larger breeds.
+	    </div>
+	    <br />
+	    <div>
+		Consistency, patience, and positive reinforcement
+		are key to successfully housetraining a Frenchie.
+		It's important to establish a regular routine for
+		taking your puppy outside to go potty, and reward
+		them with praise and treats when they go in the
+		appropriate spot. Crate training can also be helpful
+		in preventing accidents inside and providing your
+		puppy with a safe and comfortable space to rest.
+	    </div>
+	    <br />
+	    <div>
+		It's important to remember that accidents are a
+		normal part of the housetraining process and not to
+		punish your puppy for mistakes. Instead, focus on
+		rewarding and reinforcing good behavior and
+		providing plenty of opportunities for your puppy to
+		go outside and learn where they are supposed to go.
+	    </div>
+	    <br />
+	    <div>
+		If you are having difficulty housetraining your
+		Frenchie, it's important to consult with a
+		professional dog trainer or behaviorist for guidance
+		on effective training techniques and strategies.
+	    </div>
+	</div>
+    </div>
+</div>
+
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+	    data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+	    What are the best obedience training methods for
+	    puppies?
+	</button>
+    </h2>
+    <div id="collapseEleven" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    <div>
+		The best obedience training methods for French
+		Bulldog puppies are those that use positive
+		reinforcement techniques. Positive reinforcement
+		means rewarding good behavior with praise, treats,
+		toys, or other rewards, while ignoring or
+		redirecting unwanted behavior.
+	    </div>
+	    <br />
+	    <div>
+		Some effective obedience training methods for French
+		Bulldog puppies include:
+	    </div>
+	    <br />
+	    <div>
+		<ol>
+		    <li>
+			Clicker training: This involves using a
+			clicker to mark desired behavior, followed
+			by a reward such as a treat or toy. This
+			method can help teach your Frenchie new
+			commands and behaviors.
+		    </li>
+		    <li>
+			Treat-based training: Using small,
+			bite-sized treats as rewards for good
+			behavior can help motivate your Frenchie to
+			learn new commands and behaviors.
+		    </li>
+		    <li>
+			Lure-based training: Using a treat or toy to
+			lure your Frenchie into the desired position
+			or behavior can be an effective way to teach
+			commands such as "sit," "down," and "stay."
+		    </li>
+		    <li>
+			Positive verbal reinforcement: Praise and
+			positive words can also be used to reward
+			good behavior and reinforce training
+			commands.
+		    </li>
+		</ol>
+	    </div>
+	    <br />
+	    <div>
+		It's important to keep training sessions short and
+		consistent, and to be patient and consistent with
+		your training. It's also important to avoid
+		punishment-based training methods, as these can be
+		counterproductive and may damage the bond between
+		you and your Frenchie.
+	    </div>
+	    <br />
+	    <div>
+		If you are having difficulty training your Frenchie
+		puppy or are unsure about the best methods to use,
+		consider enrolling in a puppy training class or
+		working with a professional dog trainer or
+		behaviorist for guidance and support.
+	    </div>
+	</div>
+    </div>
+</div>
+
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+	    data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
+	    How do frenchies get along with other animals?
+	</button>
+    </h2>
+    <div id="collapseTwelve" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    <div>
+		French Bulldogs can generally get along well with
+		other animals, including other dogs and cats, as
+		long as they are properly socialized and introduced
+		to each other in a positive and supervised manner.
+	    </div>
+	    <br />
+	    <div>
+		Socialization is an important part of raising a
+		well-adjusted Frenchie, and it's important to expose
+		them to different animals, people, and environments
+		from a young age. This can help prevent fear,
+		anxiety, and aggression towards other animals later
+		in life.
+	    </div>
+	    <br />
+	    <div>
+		It's also important to supervise interactions
+		between your Frenchie and other animals, especially
+		when they are first introduced or if there is any
+		history of aggression or fear. This can help prevent
+		any potential conflicts or negative interactions.
+	    </div>
+	    <br />
+	    <div>
+		It's important to note that every dog is unique, and
+		some Frenchies may have a higher prey drive or be
+		less tolerant of other animals than others. It's
+		important to monitor your Frenchie's behavior and
+		adjust their interactions with other animals as
+		needed to ensure the safety and well-being of all
+		involved.
+	    </div>
+	    <br />
+	    <div>
+		If you are introducing a new animal into your home
+		with an existing Frenchie, it's important to
+		introduce them slowly and carefully, using positive
+		reinforcement and supervised interactions to help
+		build positive associations between them.
+	    </div>
+	</div>
+    </div>
+</div>
+
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+	    data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+	    What is the personality difference between a male and
+	    female frenchies?
+	</button>
+    </h2>
+    <div id="collapseThirteen" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    <div>
+		In general, the personality difference between male
+		and female French Bulldogs can be subtle and may
+		depend more on the individual dog's personality than
+		their sex. However, there are some potential
+		differences that you may notice.
+	    </div>
+	    <br />
+	    <div>
+		Male Frenchies may be more assertive and dominant,
+		while females may be more independent and stubborn.
+		Male Frenchies may also be more playful and
+		energetic, while females may be more reserved and
+		calm. However, these generalizations may not hold
+		true for every individual dog.
+	    </div>
+	    <br />
+	    <div>
+		It's important to note that personality differences
+		between male and female Frenchies can be influenced
+		by many factors, including genetics, upbringing, and
+		socialization. It's important to focus on the
+		individual dog's personality and needs when choosing
+		a pet, rather than relying solely on their sex.
+	    </div>
+	    <br />
+	    <div>
+		Whether you choose a male or female Frenchie, it's
+		important to provide them with proper training,
+		socialization, and care to help them develop into a
+		well-adjusted and happy pet.
+	    </div>
+	</div>
+    </div>
+</div>
+
+<div class="accordion-item">
+    <h2 class="accordion-header">
+	<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+	    data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+	    What should a Frenchie's diet consist of?
+	</button>
+    </h2>
+    <div id="collapseFourteen" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+	<div class="accordion-body">
+	    <div>
+		A Frenchie's diet should consist of high-quality dog
+		food that is appropriate for their age, size, and
+		activity level. It's important to choose a dog food
+		that contains high-quality protein, healthy fats,
+		and essential vitamins and minerals.
+	    </div>
+	    <br />
+	    <div>
+		Here are some key considerations when choosing a
+		diet for your Frenchie:.
+	    </div>
+	    <br />
+	    <div>
+		<ol>
+		    <li>
+			Protein: Frenchies require a diet that is
+			high in protein, which is important for
+			maintaining healthy muscles and supporting
+			overall health. Look for a dog food that
+			contains high-quality protein sources, such
+			as chicken, beef, or fish.
+		    </li>
+		    <li>
+			Fat: Healthy fats are also an important part
+			of a Frenchie's diet, as they provide
+			essential fatty acids that support healthy
+			skin and coat, as well as overall health.
+			Look for a dog food that contains healthy
+			fats, such as fish oil, chicken fat, or
+			flaxseed.
+		    </li>
+		    <li>
+			Carbohydrates: Frenchies can also benefit
+			from a diet that includes healthy
+			carbohydrates, such as brown rice, sweet
+			potatoes, or peas. These can provide energy
+			and fiber, and help keep your Frenchie
+			feeling full and satisfied.
+		    </li>
+		    <li>
+			Vitamins and minerals: It's important to
+			choose a dog food that contains essential
+			vitamins and minerals, such as vitamin E,
+			vitamin C, and calcium. These nutrients are
+			important for supporting overall health and
+			well-being.
+		    </li>
+		</ol>
+	    </div>
+	    <br />
+	    <div>
+		It's also important to feed your Frenchie a balanced
+		and appropriate amount of food for their size and
+		activity level. Overfeeding can lead to obesity,
+		which can increase the risk of health problems such
+		as joint issues and heart disease.
+	    </div>
+	    <br />
+	    <div>
+		If you have any concerns about your Frenchie's diet,
+		or if you are considering making changes to their
+		diet, it's a good idea to consult with your
+		veterinarian for guidance and advice.
+	    </div>
+	    <br />
+	    <div>
+		Our French Bulldogs that are 17 weeks or older are
+		fed a diet that includes Titan Red by{" "}
+		<a href="https://rahraw.com/product/titan-red/" target="_blank">
+		    RAH RAW<strong></strong>
+		</a>
+	    </div>
+	    <br />
+	    <div>
+		<strong>About Titan Red:</strong>
+	    </div>
+	    <br />
+	    <div>
+		Titan Red Complete is a finely ground mix of Beef,
+		Salmon By-Product, Egg Product, Beef Tripe, Beef
+		Liver, Beef Hearts, Beef Kidneys, Steamed Bone Meal,
+		Wheat Germ Oil, Dicalcium Phosphate, Taurine, Salt,
+		Potassium Chloride, Dried Kelp, L-Lysine,
+		DL-Methionine, Zync Sulfate, Iron Sulfate, Magnesium
+		Oxide, Yucca Schindigera Extract (For Flavor),
+		Vitamin E Supplement, L-Tryptophan, Calcium
+		Pantothenate, Niacin Supplement, L-Carnitine,
+		Vitamin B12 Supplement, Thiamine Mononitrate,
+		Vitamin A Supplement, Vitamin D3 Supplement,
+		Riboflavin Supplement, Pyridoxine Hydrochloride,
+		Folic Acid, d-Biotin, Ethylenediamine, Dihydriodide,
+		Cobalt Carbonate, Tocopherols (Preservative). Titan
+		Red has a smooth texture, similar to the consistency
+		of ground beef. Pets with allergies to poultry do
+		great with this blend because it is predominantly
+		beef. Titan Red is a Complete Dog Food and is
+		processed for Pet Food only.
+	    </div>
+	    <br />
+	    <div>
+		<ul>
+		    <li>Crude Protein: (min) 12%</li>
+		    <li>Fiber: (max) 4%</li>
+		    <li>Fat: (min) 9% </li>
+		    <li>Moisture: (max) 74%</li>
+		    <li>Calories: 1493 kcal/kg, 677 kcal/lb</li>
+		</ul>
+	    </div>
+	</div>
+    </div>
+</div>
+</div>  
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
