@@ -13,9 +13,10 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 ## FEES
-* Simple bulleted lists
-* Like this one
-* Are cool
+* Simple bulleted lists - $49
+* Like this one - 100
+* Are cool - 150
+
 ---
 
 <div class="gallery" data-columns="1">
@@ -23,9 +24,10 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 ## Reproduction
-* Simple bulleted lists
-* Like this one
-* Are cool
+* Simple bulleted lists - $49
+* Like this one - 100
+* Are cool - 150
+
 ---
 
 <div class="gallery" data-columns="1">
@@ -33,9 +35,10 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 ## Testing
-* Simple bulleted lists
-* Like this one
-* Are cool
+* Simple bulleted lists - $49
+* Like this one - 100
+* Are cool - 150
+
 ---
 
 <div class="gallery" data-columns="1">
@@ -43,9 +46,10 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 ## Wellness and Care
-* Simple bulleted lists
-* Like this one
-* Are cool
+* Simple bulleted lists - $49
+* Like this one - 100
+* Are cool - 150
+
 ---
 
 <div class="gallery" data-columns="1">
@@ -53,9 +57,9 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 ## Vaccination & Deworming
-* Simple bulleted lists
-* Like this one
-* Are cool
+* Simple bulleted lists - $49
+* Like this one - 100
+* Are cool - 150
 
 
 
