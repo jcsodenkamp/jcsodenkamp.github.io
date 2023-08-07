@@ -19,7 +19,12 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 | After-hours Fee               | $50.00  |
 | After-hours Moblie Fee        | $100.00 |
 | Mobile Service Fee            | $50.00  |
-
+| Testing                       | Price   |
+|-------------------------------|---------|
+| DNA Testing                   | $200.00 |
+| Giardia Fecal Testing         | $30.00  |
+| Parvo Fecal Testing           | $30.00  |
+| Pregnacy Test  		| $40.00  |
 ---
 
 <div class="gallery" data-columns="1">
