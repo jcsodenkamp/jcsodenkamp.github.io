@@ -3,7 +3,7 @@ title: 'Other Services'
 subtitle: ''
 date: 2018-06-30 00:00:00
 description: .
-featured_image: '/images/demo/off-the-grid.png'
+featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 ---
 
 ![](/images/demo/facebook-community-group.png)
