@@ -12,8 +12,6 @@ menu_settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'FAQs'
-      url: '/faq'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
