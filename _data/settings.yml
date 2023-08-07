@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Studs'
       url: '/project/studs'
     - title: 'Services'
-      url: '/project/services'
+      url: '/project/other-services'
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
