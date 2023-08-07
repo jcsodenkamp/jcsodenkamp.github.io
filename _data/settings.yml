@@ -12,7 +12,7 @@ menu_settings:
       url: '/'
     - title: "Available Puppies'
       url: '/project/available-puppies'
-    - title: "Studs'
+    - title: 'Studs'
       url: '/project/studs'
     - title: 'Blog'
       url: '/blog/'
