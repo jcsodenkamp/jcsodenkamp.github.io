@@ -20,7 +20,7 @@ menu_settings:
       url: '/blog/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact/FAQs'
+    - title: 'Contact'
       url: '/contact'
     
 
