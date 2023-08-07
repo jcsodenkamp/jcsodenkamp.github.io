@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About Us
 subtitle: 
 description: 
 featured_image: /images/demo/about.jpg
