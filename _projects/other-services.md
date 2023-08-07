@@ -13,11 +13,9 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 ## FEES
-| Item                 |  Price |
-|----------------------|--------|
-| After-Hours Fee      |  $49   |
-| After-Hours Moblie   |  $49   |
-| Mobile Service Fee   |  $49   |
+* Simple bulleted lists
+* Like this one
+* Are cool
 ---
 
 <div class="gallery" data-columns="1">
@@ -25,11 +23,9 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 ## Reproduction
-| Item                 |  Price |
-|----------------------|--------|
-| After-Hours Fee      |  $49   |
-| After-Hours Moblie   |  $49   |
-| Mobile Service Fee   |  $49   |
+* Simple bulleted lists
+* Like this one
+* Are cool
 ---
 
 <div class="gallery" data-columns="1">
@@ -37,11 +33,9 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 ## Testing
-| Item                 |  Price |
-|----------------------|--------|
-| After-Hours Fee      |  $49   |
-| After-Hours Moblie   |  $49   |
-| Mobile Service Fee   |  $49   |
+* Simple bulleted lists
+* Like this one
+* Are cool
 ---
 
 <div class="gallery" data-columns="1">
@@ -49,11 +43,9 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 ## Wellness and Care
-| Item                 |  Price |
-|----------------------|--------|
-| After-Hours Fee      |  $49   |
-| After-Hours Moblie   |  $49   |
-| Mobile Service Fee   |  $49   |
+* Simple bulleted lists
+* Like this one
+* Are cool
 ---
 
 <div class="gallery" data-columns="1">
@@ -61,11 +53,9 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 ## Vaccination & Deworming
-| Item                 |  Price |
-|----------------------|--------|
-| After-Hours Fee      |  $49   |
-| After-Hours Moblie   |  $49   |
-| Mobile Service Fee   |  $49   |
+* Simple bulleted lists
+* Like this one
+* Are cool
 
 
 
