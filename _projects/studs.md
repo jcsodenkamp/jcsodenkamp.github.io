@@ -27,6 +27,10 @@ tenetur error, harum nesciunt ipsum debitis quas aliquid.
         <img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
+
+## Interested in this stud?
+
+<a href="/contact" class="button button--large">contact us</a>
 ---
 
 ![](/images/demo/stud.png)
