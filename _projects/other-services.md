@@ -6,8 +6,12 @@ description:
 featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 ---
 
-![](/images/demo/finecare-vet-canine-progesterone-3__32100.jpg)
 
+
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
 
 | Fee's                         | Price   |
 |-------------------------------|---------|
@@ -15,28 +19,27 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 | After-hours Moblie Fee        | $100.00 |
 | Mobile Service Fee            | $50.00  |
 
+---
 
 <div class="gallery" data-columns="1">
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
-
----
 
 | Testing                       | Price   |
 |-------------------------------|---------|
 | DNA Testing                   | $200.00 |
 | Giardia Fecal Testing         | $30.00  |
-| Paro Fecal Testing            | $30.00  |
+| Parvo Fecal Testing           | $30.00  |
 | Pregnacy Test  		| $40.00  |
 
+
+---
 
 <div class="gallery" data-columns="1">
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
-
----
 
 | Vaccination & Deworming       | Price  |
 |-------------------------------|--------|
@@ -44,13 +47,12 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 | Deworming                     | $15.00 |
 | Rabies Vaccine w/Tag          | $20.00 |
 
+---
 
 <div class="gallery" data-columns="1">
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
-
----
 
 | Reproduction                  | Price    |
 |-------------------------------|----------|
@@ -63,12 +65,12 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 | Ultrasound Confirmation       | $60.00   |
 | Semen Pack (No Shipping)      | $175.00  |
 
+---
+
 <div class="gallery" data-columns="1">
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
-
----
 
 | Wellness & Care               | Price   |
 |-------------------------------|---------|
@@ -78,14 +80,3 @@ featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
 | Nail Trim & Ear Clean		| $30.00  |
 | Pneumonia Treatment           | $50.00  |
 | Skin Infection Treatment      | $50.00  |
-
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-
-
-
-
