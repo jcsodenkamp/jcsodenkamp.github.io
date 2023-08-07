@@ -89,9 +89,23 @@ You can also add blockquotes, which are shown at a larger width to help break up
 
 The theme also supports markdown tables:
 
-| Item                 | Price  |
-|----------------------|--------|
-| A.I.		       | $50.00 |
+| Reproduction                  | Price  |
+|-------------------------------|--------|
+| A.I.		                | $50.00 |
+|-------------------------------|--------|
+| Same-day Pack and Ship        | $50.00 |
+|-------------------------------|--------|
+| Pre-Breading Clean-out        | $50.00 |
+|-------------------------------|--------|
+| Progesterone Testing		| $50.00 |
+|-------------------------------|--------|
+| Semen Collection & Evaluation | $50.00 |
+|-------------------------------|--------|
+| TCI		                | $50.00 |
+|-------------------------------|--------|
+| Ultrasound Confirmation       | $50.00 |
+|-------------------------------|--------|
+| Semen Pack (No Shipping)      | $50.00 |
 
 
 And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
