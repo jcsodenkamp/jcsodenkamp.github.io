@@ -1,6 +1,6 @@
 ---
 title: 'Services'
-subtitle: 'French Bulldog Only'
+subtitle: 'French Bulldogs Only'
 date: 2018-06-30 00:00:00
 description: We're dedicated to the responsible and ethical practice of dog breeding, committed to fostering healthy, happy, and loving canine companions. Our comprehensive range of services ensures that every step of the breeding journey is guided by the utmost care and expertise.
 featured_image: '/images/demo/finecare-vet-canine-progesterone-3__32100.jpg'
